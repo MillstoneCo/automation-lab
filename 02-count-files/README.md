@@ -1,0 +1,1 @@
+Count the number of files in specified directory. Print total count. 
