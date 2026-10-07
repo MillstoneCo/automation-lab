@@ -1,0 +1,1 @@
+generate a list of the file names and sizes in the target folder
